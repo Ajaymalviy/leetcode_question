@@ -1,0 +1,32 @@
+from typing import List, Optional
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+
+class Solution:
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
+        def dfs(node, current_path, current_sum):
+            if not node:
+                return
+
+            current_sum += node.val
+            current_path.append(node.val)
+
+            # Check if it's a leaf node and the sum equals the targetSum
+            if not node.left and not node.right and current_sum == targetSum:
+                result.append(list(current_path))
+
+            dfs(node.left, current_path, current_sum)
+            dfs(node.right, current_path, current_sum)
+
+            # Backtrack: Remove the current node from the path and subtract its value from the sum
+            current_path.pop()
+            current_sum -= node.val
+
+        result = []
+        dfs(root, [], 0)
+        return result
