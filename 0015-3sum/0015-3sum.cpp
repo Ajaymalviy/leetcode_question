@@ -7,6 +7,7 @@ public:
         }
         if(nums[0] > 0){        //If the smallest element is greater than zero, return an empty vector            return {};
         }  //at both case we directly return to the function
+
         
         vector<vector<int>> answer;//i was creating a array/vector of name answer
         for(int i = 0 ; i < nums.size() ; ++i){     //Iterate through the array to fix the first number of the triplet.
