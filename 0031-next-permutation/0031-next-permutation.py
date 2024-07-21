@@ -16,6 +16,7 @@ class Solution:
 
             # Swap nums[i] and nums[j]
             nums[i], nums[j] = nums[j], nums[i]
+            
 
         # Reverse the subarray to the right of i
         left, right = i + 1, n - 1
