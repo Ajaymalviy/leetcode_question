@@ -23,4 +23,5 @@ class Solution:
         first, second = head, prev
         while second.next:
             first.next, first = second, first.next
+
             second.next, second = first, second.next
