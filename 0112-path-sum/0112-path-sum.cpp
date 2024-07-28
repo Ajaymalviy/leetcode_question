@@ -14,6 +14,7 @@ public:
             return true;
         }
 
+        
         // Recursively check for the target sum in the left and right subtrees
         // by subtracting the current node's value from the target sum.
         return hasPathSum(root->left, targetSum - root->val) || hasPathSum(root->right, targetSum - root->val);
