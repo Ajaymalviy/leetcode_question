@@ -17,6 +17,7 @@ public:
         return leftBalanced && rightBalanced && currentBalanced;
     }
 
+
 private:
     int height(TreeNode* node) {
         if (node == nullptr) {
