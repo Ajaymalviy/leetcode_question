@@ -18,6 +18,7 @@ public:
             // Add the string to its corresponding group in the hashmap
             anagramGroups[sortedStr].push_back(str);
         }
+
         
         // Convert the hashmap values to a vector of vectors
         vector<vector<string>> result;
