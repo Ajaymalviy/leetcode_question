@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ajaymalviy/leetcode_question/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaymalviy/leetcode_question/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ajaymalviy/leetcode_question/tree/master/0409-longest-palindrome) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ajaymalviy/leetcode_question/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
 ## Simulation
 |  |
 | ------- |
@@ -67,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
