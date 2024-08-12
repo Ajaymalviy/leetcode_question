@@ -24,5 +24,6 @@ class Solution:
                 return False
             head = head.next
             prev = prev.next
-        
+   
+     
         return True
