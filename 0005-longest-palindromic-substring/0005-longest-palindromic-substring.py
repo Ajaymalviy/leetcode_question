@@ -9,6 +9,7 @@ class Solution:
                 right += 1
             return s[left + 1:right]
 
+
         longest_palindrome = ""
         for i in range(len(s)):
             # For odd-length palindromes, where s[i] is the center.
