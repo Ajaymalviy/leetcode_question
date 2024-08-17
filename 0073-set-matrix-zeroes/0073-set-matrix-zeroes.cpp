@@ -11,6 +11,7 @@ public:
         std::unordered_set<int> zeroCols;
 
         // Identify the rows and columns to be zeroed
+
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
                 if (matrix[i][j] == 0) {
