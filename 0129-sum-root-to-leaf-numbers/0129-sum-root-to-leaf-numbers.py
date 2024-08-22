@@ -15,6 +15,7 @@ class Solution:
             left_sum = dfs(node.left, current_sum)
             right_sum = dfs(node.right, current_sum)
             
+
             # Return the sum of left and right subtree sums
             return left_sum + right_sum
         
