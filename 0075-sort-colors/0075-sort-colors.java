@@ -13,7 +13,6 @@ class Solution {
       }
     }
   }
-
   
   
   private void swap(int[] nums, int index1, int index2) {
