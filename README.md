@@ -94,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ajaymalviy/leetcode_question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Graph
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Ajaymalviy/leetcode_question/tree/master/2803-modify-graph-edge-weights) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Ajaymalviy/leetcode_question/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Ajaymalviy/leetcode_question/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
