@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ajaymalviy/leetcode_question/tree/master/0906-walking-robot-simulation) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ajaymalviy/leetcode_question/tree/master/0409-longest-palindrome) |
+| [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ajaymalviy/leetcode_question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ajaymalviy/leetcode_question/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ajaymalviy/leetcode_question/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaymalviy/leetcode_question/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ajaymalviy/leetcode_question/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Depth-First Search
