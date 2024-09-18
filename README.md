@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ajaymalviy/leetcode_question/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ajaymalviy/leetcode_question/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ajaymalviy/leetcode_question/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ajaymalviy/leetcode_question/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ajaymalviy/leetcode_question/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ajaymalviy/leetcode_question/tree/master/0409-longest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ajaymalviy/leetcode_question/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ajaymalviy/leetcode_question/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
