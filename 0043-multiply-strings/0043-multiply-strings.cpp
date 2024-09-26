@@ -20,6 +20,7 @@ public:
         s[i + j + 1] = '0' + sum % 10;
       }
 
+    
     // Find the index of the first non-zero digit in the result.
     const int i = s.find_first_not_of('0');
 
