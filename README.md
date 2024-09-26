@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ajaymalviy/leetcode_question/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ajaymalviy/leetcode_question/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0921-spiral-matrix-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaymalviy/leetcode_question/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajaymalviy/leetcode_question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting
@@ -220,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ajaymalviy/leetcode_question/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ajaymalviy/leetcode_question/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ajaymalviy/leetcode_question/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
