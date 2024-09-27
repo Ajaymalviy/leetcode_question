@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Ajaymalviy/leetcode_question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ajaymalviy/leetcode_question/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0921-spiral-matrix-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaymalviy/leetcode_question/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajaymalviy/leetcode_question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ajaymalviy/leetcode_question/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ajaymalviy/leetcode_question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajaymalviy/leetcode_question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -226,12 +229,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
