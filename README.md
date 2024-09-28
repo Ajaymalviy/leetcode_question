@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Ajaymalviy/leetcode_question/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ajaymalviy/leetcode_question/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0921-spiral-matrix-iii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Ajaymalviy/leetcode_question/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Ajaymalviy/leetcode_question/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ajaymalviy/leetcode_question/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Ajaymalviy/leetcode_question/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ajaymalviy/leetcode_question/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Ajaymalviy/leetcode_question/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Ajaymalviy/leetcode_question/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
