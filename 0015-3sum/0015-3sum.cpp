@@ -6,7 +6,7 @@ public:
             return {};
         }
         if(nums[0] > 0){        //If the smallest element is greater than zero, return an empty vector            return {};
-        }  //at both case we directly return to the function
+        }  //at both case we directly return to the functio
 
         
         vector<vector<int>> answer;//i was creating a array/vector of name answer
