@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Ajaymalviy/leetcode_question/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Ajaymalviy/leetcode_question/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajaymalviy/leetcode_question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ajaymalviy/leetcode_question/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ajaymalviy/leetcode_question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ajaymalviy/leetcode_question/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ajaymalviy/leetcode_question/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ajaymalviy/leetcode_question/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ajaymalviy/leetcode_question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Ajaymalviy/leetcode_question/tree/master/2755-extra-characters-in-a-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ajaymalviy/leetcode_question/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2803-modify-graph-edge-weights](https://github.com/Ajaymalviy/leetcode_question/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
