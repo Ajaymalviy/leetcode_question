@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajaymalviy/leetcode_question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Ajaymalviy/leetcode_question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ajaymalviy/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Ajaymalviy/leetcode_question/tree/master/2411-spiral-matrix-iv) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ajaymalviy/leetcode_question/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaymalviy/leetcode_question/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Ajaymalviy/leetcode_question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ajaymalviy/leetcode_question/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ajaymalviy/leetcode_question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ajaymalviy/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaymalviy/leetcode_question/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ajaymalviy/leetcode_question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajaymalviy/leetcode_question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Ajaymalviy/leetcode_question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/Ajaymalviy/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 ## Counting
 |  |
