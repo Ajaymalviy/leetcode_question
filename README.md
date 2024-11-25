@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaymalviy/leetcode_question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ajaymalviy/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/Ajaymalviy/leetcode_question/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Ajaymalviy/leetcode_question/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ajaymalviy/leetcode_question/tree/master/0906-walking-robot-simulation) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Ajaymalviy/leetcode_question/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaymalviy/leetcode_question/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ajaymalviy/leetcode_question/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Ajaymalviy/leetcode_question/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/Ajaymalviy/leetcode_question/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ajaymalviy/leetcode_question/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ajaymalviy/leetcode_question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
