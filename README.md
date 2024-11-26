@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/Ajaymalviy/leetcode_question/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/Ajaymalviy/leetcode_question/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
